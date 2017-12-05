@@ -23,6 +23,7 @@ public class Main4 {
             resultado *= i;
 
 
+
         }
 
         System.out.println(resultado);
@@ -32,4 +33,3 @@ public class Main4 {
 
 
     }
-
